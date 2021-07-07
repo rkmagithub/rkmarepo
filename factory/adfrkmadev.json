@@ -1,0 +1,9 @@
+{
+	"name": "adfrkmadev",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "30d1c70b-3b05-4f7a-b31f-d9d13a4c73ea",
+		"tenantId": "cb4d3150-e29c-4e01-84c0-732ffdce3b36"
+	}
+}
